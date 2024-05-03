@@ -9,4 +9,4 @@ We used two datasets in our analyses:
 - `stackoverflow_full.csv`: This dataset supports Analysis 2.
 
 ### Final Report
-The `DSCI531_Final_Project__LiteratureReview_.pdf` is our final report
+The `DSCI531_Final_Project` is our final report
